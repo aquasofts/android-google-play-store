@@ -3,6 +3,8 @@
 2. google play service
 3. google play store  
 
+有用的话点个star让更多人看到谢谢喵
+
 ## 1. 安装google服务框架
 
 [google服务框架下载地址](https://www.apkmirror.com/apk/google-inc/google-services-framework/)

@@ -3,7 +3,7 @@
 2. google play service
 3. google play store  
 
-有用的话点个star让更多人看到谢谢喵
+有用的话点个star让更多人看到谢谢喵~
 
 ## 1. 安装google服务框架
 
@@ -17,11 +17,11 @@
 
 [google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)
 
-**一定要安装最新版本，选择第一个点击进去**
+**一定要安装最新版本，选择图中所示的按钮点进去**
 
 ![img](https://raw.githubusercontent.com/aquasofts/android-google-play-store/master/google-play-service-01.png)
 
-**注意一定要选择你的系统版本的下载，DPI和系统架构也需要符合**
+**注意一定要选择你的系统版本的下载，特别是DPI和系统架构也需要符合**
 
 ![img](https://raw.githubusercontent.com/aquasofts/android-google-play-store/master/google-play-service-02.png)
 
